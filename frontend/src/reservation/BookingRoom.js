@@ -388,7 +388,7 @@ localStorage.setItem('roomtype', newBookingData.roomType);
               </div>
 
               <div className="details">
-                <Row style={{marginLeft:'5rem'}} className="mt-5 mb-5">
+                <Row style={{marginLeft:'5rem'}} className="mt-5 mb-5 chetanya">
                   
                   
                   <text className="Heading-1 col-12 mb-3" style={{fontSize:'2.5rem'}}>Details</text>
