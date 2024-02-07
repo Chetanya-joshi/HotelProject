@@ -28,3 +28,17 @@ transition: 0.7s;
 
 } */
 
+@media(max-width:400px){
+    .textheading{
+        width:300px !important;
+    }
+    .textheading h1{
+        width:400px !important;
+    }
+
+    .chetanya{
+        margin-top:550px !important;
+        margin-left:0px !important;
+    }
+}
+
