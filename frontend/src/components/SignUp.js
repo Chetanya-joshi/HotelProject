@@ -31,7 +31,7 @@ export default function Signup() {
 // And the variables name, email, and password are defined
 
 try {
-      const response = await fetch("http://localhost:1000/signup", {
+      const response = await fetch("http://localhost:5000/signup", {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
